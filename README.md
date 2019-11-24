@@ -1,5 +1,7 @@
 # quotegen
 
+Author- by Hamzah Ali Khan
+
 ## Project setup
 ```
 npm install
