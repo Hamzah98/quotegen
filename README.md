@@ -1,6 +1,6 @@
 # quotegen
 
-Author- by Hamzah Ali Khan
+Author- Hamzah Ali Khan
 
 ## Project setup
 ```
